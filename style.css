@@ -1,6 +1,4 @@
-#marcel, #tiffany, #serena {
-    animation:spin 3s linear infinite;
-}
+
 @keyframes spin { 100% { transform:rotate(360deg); } }
 h1, #marcel, #tiffany, #serena {
     text-align:center;
